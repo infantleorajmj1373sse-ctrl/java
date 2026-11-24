@@ -1,0 +1,2 @@
+# Q1 – String, StringBuilder or StringBuffer
+Run `javac StringBuildBenchmark.java && java StringBuildBenchmark 10000`. Repeat with a short ticket and larger workloads. The program measures repeated concatenation, StringBuilder and StringBuffer. Record averages and memory observations from your own machine; a single timing is not sufficient.
